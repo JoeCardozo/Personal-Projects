@@ -22,7 +22,7 @@ https://drive.google.com/file/d/182OuytOD0TixnNKKHgp8RD6TfPJIU887/view?usp=shari
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` textf
 
 [Link](url) and ![Image](src)
 ```
