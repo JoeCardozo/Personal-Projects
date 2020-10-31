@@ -1,20 +1,20 @@
 ## Welcome to Joe's Project
 ## Bienvenido a Joe's Proyectos
 
-You can use the [editor on GitHub](https://github.com/JoeCardozo/Personal-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Joe
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I pride myself in efficient teamwork, exciting innovation, and diversity & inclusion. In order, to make any product or services successfull, then one needs to have a great team, in which, eveyone can execute on their responsiblities and be held accountable. Therefore, in the positions i've held so far, I always make sure to communicate clerarly with my team, in order, to divide tasks and execute in a defined timeline. Whem it comes to Innovation, I'm always looking for new ways to make a new process faster or reduce work required, initiate the use of new technology, or simply bring new ideas to the table. As a 1st generation Mexican-American, since college to now, I've always been involved in creating the space for understanding, accepting, and valuing people of diverse cultures and backgrounds with a concentration in LatinXs
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+
+
+
+
+
+
 
 - Bulleted
 - List
