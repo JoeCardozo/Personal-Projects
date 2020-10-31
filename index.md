@@ -24,7 +24,11 @@ https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187
 **Bold** and _Italic_ and `Code` textf
 
 [Link](https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187) and ![Image](https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187)
+
+![Prosthetic Hand](https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187)
+
 ```
+![Prosthetic Hand](https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
