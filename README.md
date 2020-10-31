@@ -1,2 +1,2 @@
-# Personal-Projects
-Projects Joe has worked on in the past.
+# Welcome to Joe's Past Projects
+Bienvenido a los proyectos pasados de Joe
