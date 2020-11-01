@@ -1,4 +1,4 @@
-# Welcome to Joe's Ambitions
+# Welcome to Joe's Passions
 
 ## About Joe
 
@@ -39,6 +39,7 @@ _Innovation_
 
 ## Latin Dancing
 _Teamwork_
+
 
 
 # Engineering Projects
