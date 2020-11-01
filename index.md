@@ -1,4 +1,4 @@
-# Welcome to Joe's Passions
+# Welcome to Joe Cardozo's Page
 
 ## About Joe
 
@@ -52,7 +52,7 @@ _Innovation_
 
 I had the chance of designing and prototyping a bionic hand for a 7 year old patient, who was born with an abnormal condition on their left arm prohibiting full growth of the left hand. For this project, I 3D scanned the patient's right hand to create a 3D object file to be manipulated. Afterwards, I exported that file into Creo to mirror the 3D object into a left hand that would be then 
 
-![](https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187)
+![image](https://github.com/JoeCardozo/Personal-Projects/issues/1#issue-733799187)
 
 ## Fully Electric Vehicle Design and Fabrication
 **Mechanical Engineer**
