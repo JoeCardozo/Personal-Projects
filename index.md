@@ -1,5 +1,4 @@
-# Welcome to Joe's Project
-## Bienvenido a Joe's Proyectos
+# Welcome to Joe's Ambitions
 
 ## About Joe
 
@@ -9,39 +8,44 @@ I pride myself in efficient teamwork, exciting innovation, and diversity & inclu
 # Passions outside the Job
 
 ## AEC Virtual Hackathon
-### Participant
-### Innovation & Teamwork
+**Participant**
+_Innovation & Teamwork_
 
 
 ## Google's Tech Star Startups
-### 3rd Place - Tribe App
-### Innovation & Teamwork
+**3rd Place - Tribe App**
+_Innovation & Teamwork_
 
 Connecting undervalued spaces to connect demand for workout classes and trainers
 
-### 3rd Place - 
-### Innovation & Teamwork
+**3rd Place**
+_Innovation & Teamwork_
 
 
-## Vice President of NYC Society of Hispanic Professional Engineer
-### Diversity, Inclusions, and Teamwork
+
+## Vice President of NYC Society of Hispanic Professional Engineer**
+_Diversity, Inclusions, and Teamwork_
+
+
 
 ## Cada Comunidad (Every Community) Employee Resource Group
-### Co-Founder
-### Diversity, Inclusions, and Teamwork
+**Co-Founder**
+_Diversity, Inclusions, and Teamwork_
+
 
 ## 3D Printing Hobbyist
-### Innovation
+_Innovation_
+
 
 ## Latin Dancing
-### Teamwork
+_Teamwork_
 
 
 # Engineering Projects
 
 ## Patient Specific Bionic Hand
-### Reasearch & Development Engineer
-### Innovation
+**Reasearch & Development Engineer**
+_Innovation_
 
 I had the chance of designing and prototyping a bionic hand for a 7 year old patient, who was born with an abnormal condition on their left arm prohibiting full growth of the left hand. For this project, I 3D scanned the patient's right hand to create a 3D object file to be manipulated. Afterwards, I exported that file into Creo to mirror the 3D object into a left hand that would be then 
 
