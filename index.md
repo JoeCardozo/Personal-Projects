@@ -18,12 +18,13 @@ _Innovation & Teamwork_
 
 Connecting undervalued spaces to connect demand for workout classes and trainers
 
-**3rd Place**
+**3rd Place - Make Up App**
 _Innovation & Teamwork_
 
 
 
-## Vice President of NYC Society of Hispanic Professional Engineer**
+## Society of Hispanic Professional Engineers; New York City Professional CHapter
+**Vice President**
 _Diversity, Inclusions, and Teamwork_
 
 
