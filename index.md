@@ -68,13 +68,19 @@ I had the chance of designing and prototyping a bionic hand for a 7 year old pat
 **Society of Automive Engineers, Mechanical Engineer**
 _Innovation & Teamwork_
 
+In my last year of college, I got to particiapte on the Society of Automotive Engineers Hybrid competition, where my team and I entered the fully electric Vehicle division. We spent a semester designing, budgeting, coordinating, and releasing equipment. The second semester we spent fabricating and testing up to the last day of the competition. After a long week at the Daytona racetrack for the competition, we placed the vehicle through its trial races and ended up on 5th place.
+
 ## Quadcopter Design and Fabrication
 **Lockheed Martin, Mechanical Engineer**
 _Innovation & Teamwork_
 
+On this project, my team and I entered a quadcopted competition with the mentorship of Lockheed Martin. 
+
 # Actual Job
 
 ## 212 w 93rd
+
+
 
 ## Culture Committee Board
 
